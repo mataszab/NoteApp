@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="delLabel">Select which note you want to delete by its name...</string>
+    <string name="delButton">Delete</string>
+    <string name="addNoteNameHint">Enter note name...</string>
+    <string name="addNoteTextHint">Enter note text...</string>
+    <string name="addButton">Save</string>
+</resources>
